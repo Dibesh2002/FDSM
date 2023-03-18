@@ -1,0 +1,19 @@
+button:hover{
+    background-color: bisque;
+    color: black;
+}
+body{
+    background-image: url("ppp.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+footer{
+    color:blueviolet;
+    background-color: bisque;
+    text-align: center;
+}
+h1{
+    color: brown;
+    
+}
